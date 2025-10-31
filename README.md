@@ -19,7 +19,6 @@ A multifunctional calculator written in **C**, supporting various mathematical o
 
 ### 🔹 FPB & KPK Mode
 - Greatest Common Divisor (GCD / FPB)
-- Least Common Multiple (LCM / KPK)
 
 ### 🔹 Elimination Mode
 - Solves systems of linear equations using **Elimination Method**
